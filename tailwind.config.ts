@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import { heroui } from "@heroui/react";
-=======
-const {heroui} = require("@heroui/react");
->>>>>>> 347e62bf127e8919e4ec3d0f2ca0949ceba746d0
 import type { Config } from "tailwindcss";
 
 export default {
