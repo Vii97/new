@@ -1,4 +1,4 @@
-export interface Item {
+export interface ItemBlockProps {
     user_id: string,
     name: string,
     price: number,
